@@ -1,0 +1,3 @@
+EMAIL_USER=user smtp gmail  
+EMAIL_PASS=password smtp gmail
+PORT=3000
